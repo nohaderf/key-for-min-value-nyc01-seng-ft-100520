@@ -9,5 +9,5 @@ def key_for_min_value(name_hash)
     end
   end
   #return the key for the smallest value
-  hash.key(min_value)
+  hash.key(min_value) #cant use .key
 end
